@@ -14,7 +14,6 @@ This repository contains code for analyzing e-commerce data to understand custom
 * [Usage](#usage)
 * [Data Source](#data-source)
 * [Note](#note)
-* [License](#license)
 
 **Data Exploration and Cleaning:**
 * Loading and inspecting the dataset
